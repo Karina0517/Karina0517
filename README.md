@@ -1,5 +1,5 @@
 <h1 align="center">
- ¡Hola mundo! Soy Karina Henao <span class="wave">🌎</span>
+ ¡Hello world! I am Karina Henao <span class="wave">🌎</span>
 </h1>
 
 <p align="center">
@@ -7,16 +7,16 @@
 </p>
 
 
-## ✨ Sobre mí
+## ✨ About me
 
-- 🎓 Estudiante de **Ingeniería de Sistemas** – 6° semestre.  
-- 🚀 Formándome intensivamente como **Full-stack Developer** en **Riwi**.  
-- 💡 Apasionada por la tecnología, el desarrollo web y el aprendizaje continuo.  
-- 🤝 Me encanta colaborar en proyectos útiles y desafiantes.  
-- 🌱 Siempre buscando mejorar mis habilidades técnicas y blandas.
+- 🎓 **Systems Engineering** student – ​​6th semester.
+- 🚀 Intensive training as a **Full-stack Developer** at **Riwi**.
+- 💡 Passionate about technology, web development, and continuous learning.
+- 🤝 I love collaborating on useful and challenging projects.
+- 🌱 Always looking to improve my technical and soft skills.
 
 
-## 🛠️ Tecnologías y herramientas
+## 🛠️ Technologies and tools
 
 <p align="center">
   <table>
@@ -24,6 +24,10 @@
       <td align="center">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40px" alt="JavaScript"/><br>
         <sub>JavaScript</sub>
+      </td>
+      <td align="center">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40px" alt="TypeScript"/><br>
+        <sub>TypeScript</sub>
       </td>
       <td align="center">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40px" alt="HTML"/><br>
@@ -56,6 +60,10 @@
         <sub>Node.js</sub>
       </td>
       <td align="center">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="40px" alt="Next.js"/><br>
+        <sub>Next.js</sub>
+      </td>
+      <td align="center">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain.svg" width="40px" alt="Bootstrap"/><br>
         <sub>Bootstrap</sub>
       </td>
@@ -71,8 +79,7 @@
   </table>
 </p>
 
-
-## 📬 Conéctate conmigo
+## 📬 Connect with me
 
 <p>
   <a href="www.linkedin.com/in/

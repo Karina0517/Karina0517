@@ -32,15 +32,15 @@
         <sub>TypeScript</sub>
       </td>
       <td align="center">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40px" alt="HTML"/><br>
-        <sub>LLM models</sub>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/openai/openai-original.svg" width="40px" alt="LLM Models"/><br>
+        <sub>LLM Models</sub>
       </td>
       <td align="center">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40px" alt="CSS"/><br>
-        <sub>IA agents</sub>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" width="40px" alt="AI Agents"/><br>
+        <sub>AI Agents</sub>
       </td>
       <td align="center">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40px" alt="Python"/><br>
+        <img src="https://playwright.dev/img/playwright-logo.svg" width="40px" alt="Playwright"/><br>
         <sub>Playwright</sub>
       </td>
     </tr>

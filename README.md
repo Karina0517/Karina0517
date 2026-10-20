@@ -9,8 +9,8 @@
 
 ## ✨ About me
 
-- 🎓 **Systems Engineering** student – ​​6th semester.
-- 🚀 Intensive training as a **Full-stack Developer** at **Riwi**.
+- 🎓 **Systems Engineering** student – ​​8th semester.
+- 🚀 IA | Front End developer and QA automate.
 - 💡 Passionate about technology, web development, and continuous learning.
 - 🤝 I love collaborating on useful and challenging projects.
 - 🌱 Always looking to improve my technical and soft skills.
@@ -23,7 +23,7 @@
     <tr>
       <td align="center">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40px" alt="JavaScript"/><br>
-        <sub>JavaScript</sub>
+        <sub>Python</sub>
       </td>
       <td align="center">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40px" alt="TypeScript"/><br>
@@ -31,19 +31,15 @@
       </td>
       <td align="center">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40px" alt="HTML"/><br>
-        <sub>HTML</sub>
+        <sub>LLM models</sub>
       </td>
       <td align="center">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40px" alt="CSS"/><br>
-        <sub>CSS</sub>
+        <sub>IA agents</sub>
       </td>
       <td align="center">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40px" alt="Python"/><br>
-        <sub>Python</sub>
-      </td>
-      <td align="center">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40px" alt="Java"/><br>
-        <sub>Java</sub>
+        <sub>Playwright</sub>
       </td>
     </tr>
     <tr>
@@ -64,16 +60,8 @@
         <sub>Next.js</sub>
       </td>
       <td align="center">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain.svg" width="40px" alt="Bootstrap"/><br>
-        <sub>Bootstrap</sub>
-      </td>
-      <td align="center">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40px" alt="React"/><br>
         <sub>React</sub>
-      </td>
-      <td align="center">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="40px" alt="Spring Boot"/><br>
-        <sub>Spring Boot</sub>
       </td>
     </tr>
   </table>
